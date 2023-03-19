@@ -1,0 +1,2 @@
+ARG BUILD_VERSION
+FROM espressif/esp-matter:${BUILD_VERSION}
